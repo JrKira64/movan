@@ -1,0 +1,1 @@
+web gunicorn movan.wsgi:application --log-file -
